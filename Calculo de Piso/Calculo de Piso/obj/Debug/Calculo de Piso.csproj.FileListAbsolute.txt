@@ -1,0 +1,36 @@
+c:\users\17000001504\documents\visual studio 2015\Projects\Calculo de Piso\Calculo de Piso\bin\Debug\Calculo de Piso.exe.config
+c:\users\17000001504\documents\visual studio 2015\Projects\Calculo de Piso\Calculo de Piso\bin\Debug\Calculo de Piso.exe
+c:\users\17000001504\documents\visual studio 2015\Projects\Calculo de Piso\Calculo de Piso\bin\Debug\Calculo de Piso.pdb
+c:\users\17000001504\documents\visual studio 2015\Projects\Calculo de Piso\Calculo de Piso\obj\Debug\Calculo de Piso.csprojResolveAssemblyReference.cache
+c:\users\17000001504\documents\visual studio 2015\Projects\Calculo de Piso\Calculo de Piso\obj\Debug\Calculo_de_Piso.Form1.resources
+c:\users\17000001504\documents\visual studio 2015\Projects\Calculo de Piso\Calculo de Piso\obj\Debug\Calculo_de_Piso.Properties.Resources.resources
+c:\users\17000001504\documents\visual studio 2015\Projects\Calculo de Piso\Calculo de Piso\obj\Debug\Calculo de Piso.csproj.GenerateResource.Cache
+c:\users\17000001504\documents\visual studio 2015\Projects\Calculo de Piso\Calculo de Piso\obj\Debug\Calculo de Piso.exe
+c:\users\17000001504\documents\visual studio 2015\Projects\Calculo de Piso\Calculo de Piso\obj\Debug\Calculo de Piso.pdb
+C:\Users\17000001509\Desktop\Calculo de Piso\Calculo de Piso\bin\Debug\Calculo de Piso.exe.config
+C:\Users\17000001509\Desktop\Calculo de Piso\Calculo de Piso\obj\Debug\Calculo de Piso.exe
+C:\Users\17000001509\Desktop\Calculo de Piso\Calculo de Piso\obj\Debug\Calculo de Piso.pdb
+C:\Users\17000001509\Desktop\Calculo de Piso\Calculo de Piso\obj\Debug\Calculo de Piso.csprojResolveAssemblyReference.cache
+C:\Users\17000001509\Desktop\Calculo de Piso\Calculo de Piso\obj\Debug\Calculo_de_Piso.Form1.resources
+C:\Users\17000001509\Desktop\Calculo de Piso\Calculo de Piso\obj\Debug\Calculo_de_Piso.Properties.Resources.resources
+C:\Users\17000001509\Desktop\Calculo de Piso\Calculo de Piso\obj\Debug\Calculo de Piso.csproj.GenerateResource.Cache
+C:\Users\17000001509\Desktop\Calculo de Piso\Calculo de Piso\bin\Debug\Calculo de Piso.exe
+C:\Users\17000001509\Desktop\Calculo de Piso\Calculo de Piso\bin\Debug\Calculo de Piso.pdb
+F:\programação\Calculo de Piso\Calculo de Piso\bin\Debug\Calculo de Piso.exe.config
+F:\programação\Calculo de Piso\Calculo de Piso\obj\Debug\Calculo de Piso.exe
+F:\programação\Calculo de Piso\Calculo de Piso\obj\Debug\Calculo de Piso.pdb
+F:\programação\Calculo de Piso\Calculo de Piso\bin\Debug\Calculo de Piso.exe
+F:\programação\Calculo de Piso\Calculo de Piso\bin\Debug\Calculo de Piso.pdb
+F:\programação\Calculo de Piso\Calculo de Piso\obj\Debug\Calculo de Piso.csprojResolveAssemblyReference.cache
+F:\programação\Calculo de Piso\Calculo de Piso\obj\Debug\Calculo_de_Piso.Form1.resources
+F:\programação\Calculo de Piso\Calculo de Piso\obj\Debug\Calculo_de_Piso.Properties.Resources.resources
+F:\programação\Calculo de Piso\Calculo de Piso\obj\Debug\Calculo de Piso.csproj.GenerateResource.Cache
+E:\programação\Calculo de Piso\Calculo de Piso\bin\Debug\Calculo de Piso.exe.config
+E:\programação\Calculo de Piso\Calculo de Piso\obj\Debug\Calculo de Piso.exe
+E:\programação\Calculo de Piso\Calculo de Piso\obj\Debug\Calculo de Piso.pdb
+E:\programação\Calculo de Piso\Calculo de Piso\bin\Debug\Calculo de Piso.exe
+E:\programação\Calculo de Piso\Calculo de Piso\bin\Debug\Calculo de Piso.pdb
+E:\programação\Calculo de Piso\Calculo de Piso\obj\Debug\Calculo de Piso.csprojResolveAssemblyReference.cache
+E:\programação\Calculo de Piso\Calculo de Piso\obj\Debug\Calculo_de_Piso.Form1.resources
+E:\programação\Calculo de Piso\Calculo de Piso\obj\Debug\Calculo_de_Piso.Properties.Resources.resources
+E:\programação\Calculo de Piso\Calculo de Piso\obj\Debug\Calculo de Piso.csproj.GenerateResource.Cache
